@@ -1,0 +1,80 @@
+‘Se localiza 0.4950 en él cuerpo de ja tabla, El) valor mas cercano a 0.4950 es
+0.4951. En Seguida se ise al valor critico en el renglan y columna correspondien=
+jes a 6.4051. Este es da 2.58. Por conveniericia, se repite a! apéndice 8.1, Areas
+bajo la Curva normal, en la tercera de forros. :
+Todas las facetas de éste problema aparecen-en el diagrama de la grafica 10-4.
+
+ 
+
+i
+
+ 
+
+A000
+
+&
+2
+
+ 
+
+ 
+
+Age = 200
+Hoye 200
+
+    
+ 
+
+PS
+
+ 
+
+58: Escala de z.
+“a Region Ragiin
+de rechaz6 de Fechazo.
+Valor eritita Valor critica
+i en i sa hie ae
+
+ 
+
+ORAPIOR 10-8 Regla de decision del nivel de slenifcancla de 0.01
+
+Por lo lanto, la regia de decision es: rechazar la hipdlesis nula y aceplar ia
+hipotesis alternativa (que indica que la media de la pablacion no es 200) si el valor
+@ calculadd ho se encusnta entve 2.58 y 12.58. La hisdlesis nula no se recha:
+ga siz se Ubica sntte -2.5e y 42.58. :
+Paso &: Se toma una decisién y se interpreta el resultado, Se loma una muestra de la
+poblacion: (praduccién semanall, se calcula 2, se aplica la regia ‘de decision y se:
+jlega a la decisian de rechazar o no Hy La cantidad media de escrtorios que.
+6 produjeron el ano pasado (50 sernanas, pues ia blanta card 2 semanas por
+vacaciones) es dé 203.5 La desviacion estandar de la poblacion es de 16 escri:
+jorlos semanales. Al calcularel valorz a partir dela formula (10-1) se obliene:
+on T6/\'50
+Como: 1.55 no. cae en la region de rechazo, Hy nose rechaza. La conclusion:
+es: la media de la poblacion no es distinta de. 200. Porto tanto, se infoniia al vice-
+presidente de fabricacion que la evidencia de la muastta no indica que la tasa de.
+produccion én la planta de Fredonia haya cambiado de 200 semanales. La dife-
+yencia de 2.5 unidades eritre la produccion: semanal historica y la del afio pasado:
+puede alribulrse razonablemente al error-de muesires. Esta informacion se resu-
+me ene) siguisnte diagrama:
+
+ 
+
+ 
+
+ 
+
+   
+
+oN Valor de zgalculado
+Hy bo se. . i
+aCEpla:
+é ‘Se-fechaza Hy.
+~~
+sin vindsniieoaeisned pointer sn “
+e ABS 2.58 Escala de Z.
+
+ 
+
+ 
+
