@@ -6,3 +6,4 @@ venv
 Curso_Diplomado
 *.jpeg
 *.zip
+.ipynb_checkpoints
