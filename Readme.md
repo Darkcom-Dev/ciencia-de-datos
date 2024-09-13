@@ -9,3 +9,4 @@ El contenido de este repositorio está desordenado, pero ya contiene las fuentes
 En la carpeta "01_Pre_requisitos" explico el uso de los cuadernos de Jupyter con mayor detalle, al igual que otras herramientas que se usarán en este repositorio.
 
 > nota: Probando si la conexion no se ha roto ya.
+> nota: Comprobar si nombre de carpeta afecta la conexion
